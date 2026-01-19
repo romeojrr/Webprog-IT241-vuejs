@@ -1,10 +1,10 @@
 <template>
   <div>
     <div class="banana">
-    <h2>{{ name }}</h2>
-    <p>{{ message }}</p>
-  </div>
-</template>
+      <h2>{{ name }}</h2>
+      <p>{{ message }}</p>
+    </div>
+  </div> </template>
 
 <script>
 export default {
