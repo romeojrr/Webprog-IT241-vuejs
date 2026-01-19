@@ -26,5 +26,4 @@ export default {
     padding: 15px;
     background-color: yellow;
   }
-
 </style>
